@@ -9,7 +9,7 @@ public class BankAccountTest {
         //Set up
         BankAccount b = new BankAccount();
         b.deposit(5);
-        b.deposit(5);
+        b.deposit(7);
 
         //expected value
         Float expectedResult = 12f;

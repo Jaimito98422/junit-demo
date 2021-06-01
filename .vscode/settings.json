@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "junit-testing/lib/junit-platform-console-standalone-1.8.0-M1.jar",
+        "c:\\wamp64\\www\\cab302\\view\\html\\mariadb-java-client-2.7.3.jar"
+    ]
+}
